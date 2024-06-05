@@ -2,7 +2,7 @@
 
 Meu nome é Talita Viana
 
--Estou estudando no alura(https://media1.tenor.com/m/Mc9pFYORVJIAAAAC/queen-rhaenyra-rhaenyra-targaryen.gif)
+-Estou estudando no alura(https//www.alura.com.br)
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
